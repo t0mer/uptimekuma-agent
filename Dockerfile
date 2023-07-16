@@ -4,7 +4,7 @@ LABEL maintainer="tomer.klein@gmail.com"
 ENV PYTHONIOENCODING=utf-8
 ENV LANG=C.UTF-8
 ENV PUSH_URL ""
-
+ENV PUSH_INTERVAL 60 
 RUN apt update -yqq
 
 RUN apt -yqq install python3-pip && \
