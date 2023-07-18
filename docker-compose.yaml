@@ -1,0 +1,10 @@
+version: "3.7"
+
+services:
+  uptimekuma_agent:
+    build: .
+    container_name: uptimekuma_agent
+    environment:
+      - PUSH_URL= #Uptime Kuma passive push url
+      - PUSH_INTERVAL=50 #Interval between pings in seconds. Default is set to 50 seconds.
+    
