@@ -2,7 +2,7 @@ version: "3.7"
 
 services:
   uptimekuma_agent:
-    build: .
+    image: techblog/uptimekuma_agent
     container_name: uptimekuma_agent
     environment:
       - PUSH_URL= #Uptime Kuma passive push url
