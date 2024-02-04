@@ -1,7 +1,7 @@
 # Uptimekuma-agent
 **"Uptime Kuma"** is an open-source status monitoring tool designed to keep an eye on various services and systems. It provides a web-based interface for visualizing the status of monitored services, making it easier for administrators and users to check the health and performance of their systems.
 
-## Key features of Uptime Kuma may include:
+## Key features of Uptime Kuma:
 
 * **Web Interface:** Uptime Kuma typically offers a user-friendly web interface where you can view the status of monitored services.
 
