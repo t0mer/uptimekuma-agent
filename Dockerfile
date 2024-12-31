@@ -1,4 +1,4 @@
-FROM python:3.14.0a1-slim-bookworm
+FROM python:3.14.0a3-alpine3.20
 LABEL maintainer="tomer.klein@gmail.com"
 
 ENV PYTHONIOENCODING=utf-8
