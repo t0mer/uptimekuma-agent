@@ -29,7 +29,7 @@ In a "Push" monitoring setup with Uptime Kuma:
 ## Using the push (passive) monitor
 To configure the monitor, click on the upper left side on '+ Add New Monitor' and define the following details:
 
-![Push monitor](screenshots/push.png)
+![Push monitor](https://raw.githubusercontent.com/t0mer/uptimekuma-agent/main/screenshots/push.png)
 
 * **Monitor Type:** Choose "Push."
 * **Friendly Name:** Display name.
